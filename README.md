@@ -46,8 +46,8 @@ curl http://127.0.0.1:5000/report
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/danidh05/tax-report-api.git
+   cd tax-report-api
    ```
 
 2. **Install dependencies:**
